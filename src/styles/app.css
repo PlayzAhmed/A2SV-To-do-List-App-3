@@ -41,7 +41,7 @@ hr {
     justify-content: center;
 }
 
-input {
+.add-task-container input {
     padding: 5px;
     border: 1px solid var(--color-primary);
     border-top-left-radius: 5px;
@@ -53,12 +53,12 @@ input {
     color: white;
 }
 
-input:focus {
+.add-task-container input:focus {
     outline: none;
     border: 2px solid var(--color-buttons);
 }
 
-button {
+.add-task-container button {
     padding: 5px;
     border: 1px solid var(--color-buttons);
     border-top-right-radius: 5px;
@@ -67,7 +67,7 @@ button {
     background-color: var(--color-buttons);
 }
 
-button:hover {
+.add-task-container button:hover {
     cursor: pointer;
     background-color: var(--color-buttons-hover);
 }
@@ -102,8 +102,4 @@ button:hover {
 .task {
     width: 100vw;
     height: 100vh;
-}
-
-.task h2 {
-    padding-left: 100px;
 }
