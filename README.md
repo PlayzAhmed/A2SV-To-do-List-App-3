@@ -11,7 +11,7 @@ Follow these steps to run the project locally 👇
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/todo-list-app.git
+git clone https://github.com/PlayzAhmed/A2SV-To-do-List-App-3.git
 ```
 
 ### 2️⃣ Move into the project folder
