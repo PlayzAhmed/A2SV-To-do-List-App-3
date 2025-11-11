@@ -17,7 +17,7 @@ git clone https://github.com/PlayzAhmed/A2SV-To-do-List-App-3.git
 ### 2️⃣ Move into the project folder
 
 ```bash
-cd todo-list-app
+cd A2SV-To-do-List-App-3
 ```
 
 ### 3️⃣ Install dependencies
